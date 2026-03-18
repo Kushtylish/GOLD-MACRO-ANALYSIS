@@ -1,1 +1,9 @@
 
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.so
+.DS_Store
+*.pkl
+*.h5
+data/raw_data.csv   # optional if you don't want to share data
