@@ -41,3 +41,6 @@ All data were manually compiled from public sources.
    ```bash
    git clone https://github.com/kushtylish/gold-macro-analysis.git
    cd gold-macro-analysis
+2. Install dependencies
+   '''bash
+ pip install -r requirements.txt
