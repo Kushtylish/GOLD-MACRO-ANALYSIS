@@ -43,4 +43,6 @@ All data were manually compiled from public sources.
    cd gold-macro-analysis
 2. Install dependencies
    ```bash
- pip install -r requirements.txt
+   git clone
+   pip install -r Requirements.txt 
+ 
