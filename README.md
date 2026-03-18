@@ -43,6 +43,7 @@ All data were manually compiled from public sources.
    cd gold-macro-analysis
 2. Install dependencies
    ```bash
-   git clone
    pip install -r Requirements.txt 
- 
+3. Launch the Notebook
+   ```bash
+   Gold_Macro_Analysis/gold_analysis.ipynb
