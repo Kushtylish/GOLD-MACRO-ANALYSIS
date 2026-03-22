@@ -76,12 +76,51 @@ Gold demonstrates some inflation‑hedging properties, especially in high‑infl
 
 ## Technologies Used
 - Python 3.10
-- pandas, numpy, matplotlib, seaborn
-- statsmodels (OLS, VAR, ARIMA, Markov Switching, cointegration)
-- scikit‑learn (Lasso, Random Forest, cross‑validation)
-- arch (GARCH)
-- pymc (Bayesian change point, optional)
-  
+**Core Data & Visualization**
+pandas – data manipulation and analysis
+
+numpy – numerical operations
+
+matplotlib.pyplot – plotting
+
+seaborn – enhanced statistical visualizations
+
+**Statistical & Econometric Models**
+scipy.stats – statistical tests (t‑test, Pearson correlation, etc.)
+
+statsmodels.api – OLS regression, ARIMA, VAR, etc.
+
+statsmodels.tsa.stattools – ADF test, cointegration, ACF/PACF
+
+statsmodels.tsa.arima.model – ARIMA model
+
+statsmodels.tsa.regime_switching.markov_regression – Markov switching models
+
+statsmodels.graphics.tsaplots – ACF/PACF plots
+
+statsmodels.stats.api – diagnostic tests (Breusch‑Pagan)
+
+statsmodels.stats.outliers_influence – variance inflation factor (VIF)
+
+**Financial & Time Series**
+arch – GARCH models (volatility)
+
+Portfolio Optimization & Machine Learning
+scipy.optimize.minimize – portfolio weight optimization
+
+sklearn.linear_model – LassoCV (regularized regression)
+
+sklearn.ensemble – RandomForestRegressor
+
+sklearn.preprocessing – StandardScaler
+
+sklearn.model_selection – TimeSeriesSplit
+
+sklearn.metrics – mean_squared_error
+
+**Utilities**
+warnings – suppress warnings (optional)
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
