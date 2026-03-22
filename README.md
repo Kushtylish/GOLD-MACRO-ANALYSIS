@@ -131,15 +131,16 @@ warnings – suppress warnings (optional)
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kushtylish/gold-macro-analysis.git
-   cd gold-macro-analysis
+   git clone https://github.com/kushtylish/GOLD-MACRO-ANALYSIS.git
+   cd GOLD-MACRO-ANALYSIS
 2. Install dependencies
    ```bash
    pip install -r Requirements.txt 
 3. Launch the Notebook
    ```bash
-   Gold_Macro_Analysis/gold_analysis.ipynb
+   GOLD-MACRO-ANALYSIS/GOLD_MACRO_ANALYSIS.ipynb
 
+** If the above doesn't work use the below button to open in google colab**
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kushtylish/GOLD-MACRO-ANALYSIS/blob/main/GOLD_MACRO_ANALYSIS.ipynb)
