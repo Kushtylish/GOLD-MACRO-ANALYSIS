@@ -1,17 +1,17 @@
 # Gold & Macroeconomic Factors: A Quantitative Analysis
 
- ## Project Overview
+## Project Overview
 This project explores the relationship between gold returns and key macroeconomic variables (inflation, interest rates, dollar index, oil, S&P 500) from 1970 to 2025. The goal is to understand gold's behavior across different economic regimes and evaluate its role as a hedge and diversifier.
 
 ## Data
-- **Gold prices** (annual low/high, 1970–2025)
-- **U.S. Dollar Index** (1973–2025)
-- **S&P 500 Index** (1970–2025)
-- **Oil prices** (1970–2025)
-- **U.S. Inflation Rate** (1970–2025)
-- **U.S. Interest Rate** (1970–2025)
+- Gold prices (annual low/high, 1970–2025)
+- U.S. Dollar Index (1973–2025)
+- S&P 500 Index (1970–2025)
+- Oil prices (1970–2025)
+- U.S. Inflation Rate (1970–2025)
+- U.S. Interest Rate (1970–2025)
 
- All data were manually compiled from public sources.
+All data were manually compiled from public sources.
 
 ## Methodology & Findings
 
@@ -69,7 +69,7 @@ This project explores the relationship between gold returns and key macroeconomi
 ### 12. Machine Learning (Lasso & Random Forest)
 - Lasso selects inflation and dollar index as the most important predictors.
 - Random Forest also identifies inflation and dollar index as top features.
-- Both models show modest out‑of‑sample predictive power (MSE ~200) but are limited by small sample size.
+- Both models show modest out‑of‑sample predictive power but are limited by small sample size.
 
 ### 13. Summary & Conclusion
 Gold demonstrates some inflation‑hedging properties, especially in high‑inflation environments. Its relationship with interest rates is less clear due to multicollinearity. The dollar index consistently exerts a negative influence. Risk‑adjusted returns are moderate, and gold can be a diversifier in portfolios. The macro regime matters: gold performs best when inflation is high and rates are rising. Machine learning and time series models add insight but require more data for robust forecasting.
