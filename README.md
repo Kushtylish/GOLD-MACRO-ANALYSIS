@@ -1,6 +1,6 @@
 # Gold & Macroeconomic Factors: A Quantitative Analysis
 
-## Project Overview
+ Project Overview
 This project explores the relationship between gold returns and key macroeconomic variables (inflation, interest rates, dollar index, oil, S&P 500) from 1970 to 2025. The goal is to understand gold's behavior across different economic regimes and evaluate its role as a hedge and diversifier.
 
 ## Data
