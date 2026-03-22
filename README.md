@@ -11,9 +11,9 @@ This project explores the relationship between gold returns and key macroeconomi
 - **U.S. Inflation Rate** (1970–2025)
 - **U.S. Interest Rate** (1970–2025)
 
-All data were manually compiled from public sources.
+ All data were manually compiled from public sources.
 
-Methodology & Findings
+## Methodology & Findings
 
 ### 1. Exploratory Data Analysis (EDA)
 - Time series plots reveal extreme volatility in gold during the 1970s and 2008–2011, and oil spikes in 2008 and 2020.
