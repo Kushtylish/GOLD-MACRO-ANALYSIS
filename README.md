@@ -75,8 +75,11 @@ All data were manually compiled from public sources.
 Gold demonstrates some inflation‑hedging properties, especially in high‑inflation environments. Its relationship with interest rates is less clear due to multicollinearity. The dollar index consistently exerts a negative influence. Risk‑adjusted returns are moderate, and gold can be a diversifier in portfolios. The macro regime matters: gold performs best when inflation is high and rates are rising. Machine learning and time series models add insight but require more data for robust forecasting.
 
 ## Technologies Used
+
 - Python 3.10
+  
 **Core Data & Visualization**
+
 pandas – data manipulation and analysis
 
 numpy – numerical operations
@@ -86,6 +89,7 @@ matplotlib.pyplot – plotting
 seaborn – enhanced statistical visualizations
 
 **Statistical & Econometric Models**
+
 scipy.stats – statistical tests (t‑test, Pearson correlation, etc.)
 
 statsmodels.api – OLS regression, ARIMA, VAR, etc.
@@ -103,9 +107,11 @@ statsmodels.stats.api – diagnostic tests (Breusch‑Pagan)
 statsmodels.stats.outliers_influence – variance inflation factor (VIF)
 
 **Financial & Time Series**
+
 arch – GARCH models (volatility)
 
-Portfolio Optimization & Machine Learning
+**Portfolio Optimization & Machine Learning**
+
 scipy.optimize.minimize – portfolio weight optimization
 
 sklearn.linear_model – LassoCV (regularized regression)
@@ -119,6 +125,7 @@ sklearn.model_selection – TimeSeriesSplit
 sklearn.metrics – mean_squared_error
 
 **Utilities**
+
 warnings – suppress warnings (optional)
 
 ## 🚀 How to Run
