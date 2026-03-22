@@ -1,9 +1,9 @@
-# Gold & Macroeconomic Factors: A Quantitative Analysis
+**Gold & Macroeconomic Factors: A Quantitative Analysis**
 
 ## Project Overview
 This project explores the relationship between gold returns and key macroeconomic variables (inflation, interest rates, dollar index, oil, S&P 500) from 1970 to 2025. The goal is to understand gold's behavior across different economic regimes and evaluate its role as a hedge and diversifier.
 
-## Data
+**Data**
 - Gold prices (annual low/high, 1970–2025)
 - U.S. Dollar Index (1973–2025)
 - S&P 500 Index (1970–2025)
@@ -140,7 +140,7 @@ warnings – suppress warnings (optional)
    ```bash
    GOLD-MACRO-ANALYSIS/GOLD_MACRO_ANALYSIS.ipynb
 
-** If the above doesn't work use the below button to open in google colab**
+**If the above doesn't work use the below button to open in google colab**
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kushtylish/GOLD-MACRO-ANALYSIS/blob/main/GOLD_MACRO_ANALYSIS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kushtylish/GOLD-MACRO-ANALYSIS/blob/main/UPDATED_GOLD_MACRO_ANALYSIS.ipynb)
