@@ -142,4 +142,4 @@ warnings – suppress warnings (optional)
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kushtylish/GOLD_MACRO_ANALYSIS/blob/main/notebooks/GOLD_MACRO_ANALYSIS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kushtylish/GOLD-MACRO-ANALYSIS/blob/main/notebooks/GOLD_MACRO_ANALYSIS.ipynb)
