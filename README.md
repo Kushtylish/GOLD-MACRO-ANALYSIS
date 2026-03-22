@@ -139,3 +139,7 @@ warnings – suppress warnings (optional)
 3. Launch the Notebook
    ```bash
    Gold_Macro_Analysis/gold_analysis.ipynb
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kushtylish/Gold_Macro_Analysis/blob/main/notebooks/Gold_Macro_Analysis.ipynb)
